@@ -1,4 +1,4 @@
-import Job from "../Models/Job";
+import Job from "../Models/Job.js";
 
 
 let _jobApi = axios.create({
